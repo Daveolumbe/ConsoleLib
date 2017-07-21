@@ -1,0 +1,23 @@
+{
+  "name": "consolelib",
+  "version": "1.0.1",
+  "description": "console styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daveolumbe/ConsoleLib.git"
+  },
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "author": "David Olumbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daveolumbe/ConsoleLib/issues"
+  },
+  "homepage": "https://github.com/Daveolumbe/ConsoleLib#readme"
+}
